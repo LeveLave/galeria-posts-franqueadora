@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1GBzhcB0TbSunSarmpgON8axIDe57PtbP",
+      "titulo": "Post Marketing #1",
+      "descricao": "Material promocional para redes sociais",
+      "tipo": "imagem",
+      "arquivo": "imagens/post-001.jpg",
+      "data": "2025-08-18"
+    },
+    {
+      "id": "17IENJpWSX6f4PGP0fnLHiMuTuvT9NN4U", 
+      "titulo": "Post Marketing #2",
+      "descricao": "Campanha promocional",
+      "tipo": "imagem",
+      "arquivo": "imagens/post-002.jpg",
+      "data": "2025-08-18"
+    },
+    {
+      "id": "1Qi7RJrj0w1OPdhEeG27wHXnxrLHs3RPH",
+      "titulo": "Post Marketing #3", 
+      "descricao": "Conteúdo para Instagram",
+      "tipo": "imagem",
+      "arquivo": "imagens/post-003.jpg",
+      "data": "2025-08-18"
+    },
+    {
+      "id": "1tV7AtjrLd-MOk8q6kg2-WGaA47cfZti6",
+      "titulo": "Post Marketing #4",
+      "descricao": "Material para Facebook", 
+      "tipo": "imagem",
+      "arquivo": "imagens/post-004.jpg",
+      "data": "2025-08-18"
+    },
+    {
+      "id": "18HZzGWZ2PqWVItGAfUAt29D5qbMNXBF-",
+      "titulo": "Vídeo Marketing #1",
+      "descricao": "Conteúdo em vídeo para redes sociais",
+      "tipo": "video", 
+      "arquivo": "videos/video-001.mp4",
+      "data": "2025-08-18"
+    }
+  ]
+}
